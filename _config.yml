@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jeffrey K Gillan, Ph.D."
-  avatar           : "Screen Shot 2022-12-07.png"
+  avatar           : "Screen Shot 2022-12-07 at 3.56.46 PM"
   bio              : "Data Scientist at BIO5 Institute at the University of Arizona"
   location         : "Tucson, AZ, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Eyu4lt4AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
