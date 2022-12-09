@@ -9,10 +9,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "CV"
+    url: /files/Gillan_CV_Dec2022.pdf
+    
   - title: "Geospatial Art"
     url: /geospatial_art/
         
     
-  - title: "CV"
-    url: /files/Gillan_CV_Dec2022.pdf
+
     
