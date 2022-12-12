@@ -12,6 +12,6 @@ I currently work as a Data Scientist III for the [BIO5 Institute](https://bio5.o
 
 I have been working in the GIS/Remote Sensing field since 2007 and began focusing on aerial photography collection and analysis in 2011. In this journey I've had the honor of working for multiple National Parks (Yellowstone, Petersburg National Battlefield), the USDA Agricultural Research Service, and a few universities (New Mexico State & Arizona). 
 
-"<br/><img src='/images/drone_selfie.JPG'>"
+"<br/><img src='/images/Gif12.gif'>"
 
 
