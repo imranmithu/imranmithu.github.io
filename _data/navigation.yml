@@ -4,7 +4,7 @@ main:
     url: /
     
   - title: "CV"
-    url: /files/Gillan_CV_Dec2022.pdf{:target="_blank"}
+    url: /files/Gillan_CV_Dec2022.pdf
     
   - title: "Videos"
     url: /videos/     
