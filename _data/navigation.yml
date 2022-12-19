@@ -3,11 +3,8 @@ main:
   - title: "Home"
     url: /
     
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Videos"
+    url: /videos/     
     
   - title: "CV"
     url: /files/Gillan_CV_Dec2022.pdf
