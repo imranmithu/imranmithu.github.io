@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
     
-  - title: "Videos"
-    url: /videos/     
-    
   - title: "CV"
     url: /files/Gillan_CV_Dec2022.pdf
+    
+  - title: "Videos"
+    url: /videos/     
     
   - title: "Geospatial Art"
     url: /geospatial_art/
