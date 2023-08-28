@@ -15,4 +15,5 @@ main:
   - title: "Educational Resources"
     url: /educational_resources/
 
-    
+  - title: "Data"
+    url: /data/
