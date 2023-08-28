@@ -4,7 +4,7 @@ main:
     url: /
     
   - title: "CV"
-    url: /files/Gillan_CV_Dec2022.pdf
+    url: /files/Gillan_CV_Sept2023.pdf
     
   - title: "Videos"
     url: /videos/     
@@ -12,6 +12,7 @@ main:
   - title: "Geospatial Art"
     url: /geospatial_art/
         
-    
+  - title: "Educational Resources"
+    url: /educational_resources/
 
     
