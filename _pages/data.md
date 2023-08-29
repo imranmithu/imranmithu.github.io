@@ -17,8 +17,7 @@ You can view and download my [entire archive](https://data.geonadir.com/social-p
 
 ## Project Data
 
-### Gillan, JK., GE Ponce-Campos, TL Swetnam, A Gorlier, P Heilman, MP McClaran. 2021. Innovations to expand drone data collection and analysis for
-rangeland monitoring. *Ecosphere 12(7)*. DOI: 10.1002/ecs2.3649
+### Gillan, JK., GE Ponce-Campos, TL Swetnam, A Gorlier, P Heilman, MP McClaran. 2021. Innovations to expand drone data collection and analysis for rangeland monitoring. *Ecosphere 12(7)*. DOI: 10.1002/ecs2.3649
 
 Raw drone imagery and imagery products (DEMs, point clouds, orthomosaics) are stored in Cyverse [Data Store](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_Ecosphere_2021){target=_blank}
 
