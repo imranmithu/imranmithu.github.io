@@ -14,6 +14,7 @@ You can view and download my [entire archive](https://data.geonadir.com/social-p
     <img src="../images/geonadir.png" alt="blah" width="500" height="400">
   </a>
 
+___
 
 # Project Data
 
@@ -22,3 +23,10 @@ You can view and download my [entire archive](https://data.geonadir.com/social-p
 * Raw drone imagery and imagery products (DEMs, point clouds, orthomosaics) are stored in Cyverse [Data Store](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_Ecosphere_2021)
     
 * Drone imagery can be visualized in [Google Earth Engine](https://bit.ly/srer-drone-2019)
+
+* [SpatioTemporal Asset Catalog (STAC)](https://radiantearth.github.io/stac-browser/#/external/stac.cyverse.org/collections/Santa%20Rita%20Ecostate%20Mapping%20-%20May%202019)
+
+
+### US Golf Association
+
+* Paradise Valley hole #17 [point cloud](https://viewer.copc.io/?state=ee15e0b9ae036865eaada9f398c2d27de94c2cde71bd92cf117156296bf46ab0)
