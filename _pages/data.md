@@ -30,3 +30,7 @@ ___
 ### US Golf Association
 
 * Paradise Valley hole #17 [point cloud](https://viewer.copc.io/?state=ee15e0b9ae036865eaada9f398c2d27de94c2cde71bd92cf117156296bf46ab0)
+
+### Jemez Residential Fire Risk
+
+* Drone-based [Fuel Map](https://promethean-gift.github.io/map)
