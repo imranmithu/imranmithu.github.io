@@ -21,7 +21,7 @@ author_profile: true
 
 ## Foundational Open Science Skills
 
-  <a href="https://foss.cyverse.org/00_basics/)" target="_blank">
+  <a href="https://foss.cyverse.org/00_basics/" target="_blank">
     <img src="../images/foss_logo.png" alt="blah" width="500" height="400">
   </a>
 
