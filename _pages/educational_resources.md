@@ -17,3 +17,11 @@ author_profile: true
   <a href="https://www.gillanscience.com/cloud-native-geospatial" target="_blank">
     <img src="https://github.com/jeffgillan/cloud-native-geospatial/blob/main/docs/images/stac3.png?raw=true" alt="blah" width="500" height="400">
   </a>
+
+
+## Foundational Open Science Skills
+
+  <a href="https://foss.cyverse.org/00_basics/)" target="_blank">
+    <img src="../images/foss_logo.png" alt="blah" width="500" height="400">
+  </a>
+
