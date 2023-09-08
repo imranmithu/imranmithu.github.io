@@ -27,15 +27,15 @@ ___
 * [SpatioTemporal Asset Catalog (STAC)](https://radiantearth.github.io/stac-browser/#/external/stac.cyverse.org/collections/Santa%20Rita%20Ecostate%20Mapping%20-%20May%202019)
 
 
-### US Golf Association
+### US Golf Association 2023
 
 * Paradise Valley hole #17 [point cloud](https://viewer.copc.io/?state=ee15e0b9ae036865eaada9f398c2d27de94c2cde71bd92cf117156296bf46ab0)
 
-### Jemez Residential Fire Risk
+### Jemez Residential Fire Risk 2020
 
 * Drone-based [Fuel Map](https://promethean-gift.github.io/map)
 
-### Bighorn Fire Forest Change
+### Bighorn Fire Forest Change 2021-2022
 
 * All remotely sensed data (drone, aerial lidar, Planet satellite, classifications) can be found [here](https://datacommons.cyverse.org/browse/iplant/home/shared/bighorn_fire) in Cyverse Data Store. 
 
@@ -43,7 +43,7 @@ ___
 
 * [Final Report](https://data.cyverse.org/dav-anon/iplant/projects/bighorn_fire/Bighorn_Fire_Imagery/Bighorn_Fire_final_report_ARSC.pdf) to Pima County Regional Flood Control District
 
-### Santa Cruz River Vegetation Mapping
+### Santa Cruz River Vegetation Mapping 2022-2023
 
 * Remotely sensed data products from airplane and drone are [here](https://datacommons.cyverse.org/browse/iplant/home/shared/santa_cruz_river)
 
