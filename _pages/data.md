@@ -37,6 +37,15 @@ ___
 
 ### Bighorn Fire Forest Change
 
-* All remotely sensed data (drone, aerial lidar, Planet satellite) can be found [here](https://de.cyverse.org/data/ds/iplant/home/shared/bighorn_fire/Bighorn_Fire_Imagery?type=folder&resourceId=f229a562-1c81-11ec-9446-90e2ba675364) in Cyverse Data Store. 
+* All remotely sensed data (drone, aerial lidar, Planet satellite, classifications) can be found [here](https://datacommons.cyverse.org/browse/iplant/home/shared/bighorn_fire) in Cyverse Data Store. 
+
+* All GIS/RS data can be visualized on a map [here](https://uagis.maps.arcgis.com/apps/webappviewer/index.html?id=42151e75171b4c7d8b6feab2ee240e59)
 
 * [Final Report](https://data.cyverse.org/dav-anon/iplant/projects/bighorn_fire/Bighorn_Fire_Imagery/Bighorn_Fire_final_report_ARSC.pdf) to Pima County Regional Flood Control District
+
+### Santa Cruz River Vegetation Mapping
+
+* Remotely sensed data products from airplane and drone are [here](https://datacommons.cyverse.org/browse/iplant/home/shared/santa_cruz_river)
+
+* [Final Report](https://data.cyverse.org/dav-anon/iplant/projects/santa_cruz_river/SCR_drone_report_Gillan_2022.pdf)
+ to Pima County Regional Flood Control District
