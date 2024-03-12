@@ -8,7 +8,7 @@ author_profile: true
 ## NextGen Geospatial Data Science Workshop
 
 <a href="https://github.com/ua-datalab/Geospatial_Workshops/wiki" target="_blank">
-    <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/geospatial_desktop_AI.png" alt="blah" width="500" height="350">
+    <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/geospatial_desktop_AI.png?raw=true" alt="blah" width="500" height="350">
   </a>
 
 
