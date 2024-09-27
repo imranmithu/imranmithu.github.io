@@ -17,3 +17,6 @@ main:
 
   - title: "Maps & Data"
     url: /data/
+
+  - title: "Map"
+    url: /map/
