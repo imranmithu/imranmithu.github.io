@@ -5,18 +5,22 @@ author_profile: false
 
 ---
 # Educational Resources
+- [Workshop Series](#workshop-series)
+- [Videos](#videos)
+- [Slide Decks](#slide-decks)
 
 <br/>
 <br/>
+<br/>
 
-
-
+## Workshop Series
 ### NextGen Geospatial Data Science Workshop
 
 <a href="https://github.com/ua-datalab/Geospatial_Workshops/wiki" target="_blank">
     <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/geospatial_desktop_AI.png?raw=true" alt="blah" width="400" height="300">
   </a>
 
+<br/>
 
 ### Cloud-Native Geospatial   
 
@@ -24,6 +28,7 @@ author_profile: false
     <img src="https://github.com/jeffgillan/cloud-native-geospatial/blob/main/docs/images/stac3.png?raw=true" alt="blah" width="400" height="300">
   </a>
 
+<br/>
 
 ### Foundational Open Science Skills
 
@@ -31,9 +36,22 @@ author_profile: false
     <img src="../images/foss_logo.png" alt="blah" width="400" height="300">
   </a>
 
+<br/>
+
 
 ### Resource Mapping with Drones
 
   <a href="https://www.gillanscience.com/resource_mapping_with_drones" target="_blank">
     <img src="https://github.com/jeffgillan/resource_mapping_with_drones/blob/main/docs/images/drone_over_SRER.png?raw=true" alt="blah" width="400" height="300">
   </a>
+
+<br/>
+<br/>
+
+## Videos
+
+<br/>
+<br/>
+
+## Slide Decks
+
