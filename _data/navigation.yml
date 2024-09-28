@@ -5,18 +5,15 @@ main:
     
   - title: "CV"
     url: /files/Gillan_CV_Feb2024.pdf
-    
-  - title: "Videos"
-    url: /videos/     
-    
-  - title: "Geospatial Art"
-    url: /geospatial_art/
-        
+     
   - title: "Educational Resources"
     url: /educational_resources/
+        
+  - title: "Maps"
+    url: /map/
 
-  - title: "Maps & Data"
+  - title: "Data"
     url: /data/
 
-  - title: "Map"
-    url: /map/
+  - title: "Geospatial Art"
+    url: /geospatial_art/
