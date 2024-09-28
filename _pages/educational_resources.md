@@ -1,9 +1,15 @@
 ---
 permalink: /educational_resources/
-title: "Educational Resources"
-author_profile: true
+title: ""
+author_profile: false
 
 ---
+# Educational Resources
+
+<br/>
+<br/>
+
+
 
 ## NextGen Geospatial Data Science Workshop
 
