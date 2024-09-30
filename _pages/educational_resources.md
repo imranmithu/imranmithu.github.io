@@ -1,7 +1,7 @@
 ---
 permalink: /educational_resources/
 title: ""
-author_profile: false
+author_profile: true
 
 ---
 # Educational Resources
@@ -50,8 +50,27 @@ author_profile: false
 
 ## Videos
 
+Sharing Your Drone Imagery
+<iframe width="1108" height="623" src="https://www.youtube.com/embed/Kiu2Qbw7OE0" title="20230320 JGillan: Make Your Drone Imagery Open &amp; Cloud-Native" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</br>
+</br>
+
+Drone Imagery for Rangeland Monitoring
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4-aEEmCRmxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+Cyverse Geospatial
+<iframe width="853" height="480" src="https://www.youtube.com/embed/o4ADmfgjdyk" title="Webinar: Geospatial Data Analysis 20240503" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br/>
 <br/>
 
 ## Slide Decks
 
+[Drone Data Bottlenecks and How to Fix Them](https://docs.google.com/presentation/d/1x-hOSfDIha4Vsyw_NJWIR4lAEG3CjXJ49BJhF62RaJs/edit?usp=sharing)
+
+[Geospatial Data Science for Land Management](https://docs.google.com/presentation/d/1QA12jSlwRUryzi9eLNlVwDX3ulO34CwYBDuUrC8-MVQ/edit?usp=sharing)
+
+[Data Management in the Drone Age](https://docs.google.com/presentation/d/13lUFdeaNfYAc9L6LvrpHOQuvT3L6SmcRK2gVHg6eVKE/edit?usp=sharing)
