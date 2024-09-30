@@ -74,10 +74,15 @@ Cyverse Geospatial
     <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/drone_bottlenecks.png?raw=true" alt="blah" width="400" height="300">
   </a>
 
+<br/>
+<br/>
 
 <a href="https://docs.google.com/presentation/d/1QA12jSlwRUryzi9eLNlVwDX3ulO34CwYBDuUrC8-MVQ/edit?usp=sharing" target="_blank">
     <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/geospatial_data_science.png?raw=true" alt="blah" width="400" height="300">
   </a>
+
+<br/>
+<br/>
 
 <a href="https://docs.google.com/presentation/d/13lUFdeaNfYAc9L6LvrpHOQuvT3L6SmcRK2gVHg6eVKE/edit?usp=sharing" target="_blank">
     <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/data_mgmt.png?raw=true" alt="blah" width="400" height="300">
