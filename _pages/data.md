@@ -29,26 +29,29 @@ ___
 
 
 <br>
+___
 <br>
 
 # Jemez Residential Fire Risk 2020
-<a href="" target="">
+<a href="https://promethean-gift.github.io/map" target="">
     <img src="../images/7_springs.png" alt="blah" width="600" height="500">
   </a>
 * [Interactive Fuel Map](https://promethean-gift.github.io/map) showing trees crowns adjacent to residential houses. Featuring drone-based photogrammetry and Aerial LiDAR. 
 
-
-# US Golf Association 2023
-
-* Paradise Valley hole #17 [point cloud](https://viewer.copc.io/?state=ee15e0b9ae036865eaada9f398c2d27de94c2cde71bd92cf117156296bf46ab0)
-
 <br>
+___
 <br>
 
-
+# Paradise Valley Country Club 
+<a href="https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834" target="">
+    <img src="../images/hole_17.png" alt="blah" width="600" height="500">
+  </a>
+* Paradise Valley Hole #17 [point cloud](https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834)
 
 <br>
+___
 <br>
+
 
 # Bighorn Fire Forest Change 2021-2022
 
