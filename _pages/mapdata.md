@@ -84,7 +84,10 @@ ___
 <br>
 
 ## Santa Cruz River Vegetation Mapping 2022-2023
-
+<a href="https://ps2.d2s.org/sharemap?file_id=c5779119-63a4-4b84-9435-6c37414105e6&symbology=eyJyZWQiOnsiaWR4IjoxLCJtYXgiOjI1NSwibWluIjowLCJ1c2VyTWF4IjoyNTUsInVzZXJNaW4iOjB9LCJibHVlIjp7ImlkeCI6MywibWF4IjoyNTUsIm1pbiI6MCwidXNlck1heCI6MjU1LCJ1c2VyTWluIjowfSwibW9kZSI6Im1pbk1heCIsImdyZWVuIjp7ImlkeCI6MiwibWF4IjoyNTUsIm1pbiI6MCwidXNlck1heCI6MjU1LCJ1c2VyTWluIjowfSwibWVhblN0ZERldiI6Miwib3BhY2l0eSI6MTAwfQ==" target="">
+    <img src="../images/scr_screenshot.png" alt="blah" width="600" height="500">
+  </a> 
+  
 * [Interactive Drone Point Cloud (April 2022)](https://ps2.d2s.org/sharepotree?file_id=d6056396-4bde-48ae-a745-f5f131f57405)
 
 * [Interactive 2D Classification Map](https://ps2.d2s.org/sharemap?file_id=f1635a4a-7ed9-4398-a99b-c2abc90766c3&symbology=eyJtYXgiOjE0LCJtaW4iOjgsIm1vZGUiOiJtaW5NYXgiLCJ1c2VyTWF4IjoxNCwidXNlck1pbiI6OCwiY29sb3JSYW1wIjoibWFnbWEiLCJtZWFuU3RkRGV2IjoyLCJvcGFjaXR5IjoxMDB9)
