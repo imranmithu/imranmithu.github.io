@@ -50,7 +50,8 @@ ___
 <a href="https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834" target="">
     <img src="../images/hole_17.png" alt="blah" width="600" height="500">
   </a>
-* Paradise Valley Hole #17 [point cloud](https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834)
+* Paradise Valley Hole #17 [Point Cloud](https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834) and [Orthomosaic](https://ps2.d2s.org/sharemap?file_id=58b23ea8-9efd-4a87-86ad-1f40f8c39f02&symbology=eyJyZWQiOnsiaWR4IjoxLCJtYXgiOjI1NSwibWluIjoxNiwidXNlck1heCI6MjU1LCJ1c2VyTWluIjoxNn0sImJsdWUiOnsiaWR4IjozLCJtYXgiOjI1NSwibWluIjoxNiwidXNlck1heCI6MjU1LCJ1c2VyTWluIjoxNn0sIm1vZGUiOiJtaW5NYXgiLCJncmVlbiI6eyJpZHgiOjIsIm1heCI6MjU1LCJtaW4iOjI2LCJ1c2VyTWF4IjoyNTUsInVzZXJNaW4iOjI2fSwibWVhblN0ZERldiI6Miwib3BhY2l0eSI6MTAwfQ==)
+
 
 <br>
 
@@ -60,8 +61,8 @@ ___
 
 
 # Bighorn Fire Forest Change 2021-2022
-<a href="https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834" target="">
-    <img src="../images/hole_17.png" alt="blah" width="600" height="500">
+<a href="https://uagis.maps.arcgis.com/apps/webappviewer/index.html?id=42151e75171b4c7d8b6feab2ee240e59" target="">
+    <img src="../images/bighorn_smoke.png" alt="blah" width="600" height="500">
   </a>
 * All remotely sensed data (drone, aerial lidar, Planet satellite, classifications) can be found [here](https://datacommons.cyverse.org/browse/iplant/home/shared/bighorn_fire) in Cyverse Data Store. 
 
