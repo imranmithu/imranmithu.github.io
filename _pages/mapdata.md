@@ -1,5 +1,5 @@
 ---
-permalink: /data/
+permalink: /mapdata/
 title: ""
 author_profile: true
 
