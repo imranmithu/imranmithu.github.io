@@ -9,11 +9,9 @@ main:
   - title: "Educational Resources"
     url: /educational_resources/
         
-  - title: "Maps"
-    url: /map/
 
-  - title: "Data"
-    url: /data/
+  - title: "Maps & Data"
+    url: /mapdata/
 
   - title: "Geospatial Art"
     url: /geospatial_art/
