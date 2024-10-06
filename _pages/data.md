@@ -40,6 +40,8 @@ ___
   </a>
 * [Interactive Fuel Map](https://promethean-gift.github.io/map) showing trees crowns adjacent to residential houses. Featuring drone-based photogrammetry and Aerial LiDAR. 
 
+* Interactive [Photogrammetric Point Cloud](https://ps2.d2s.org/sharepotree?file_id=6944436e-ba1b-4e71-9c21-3edabfd3fd25) 
+
 <br>
 
 ___
@@ -63,12 +65,17 @@ ___
 # Bighorn Fire Forest Change 2021-2022
 <a href="https://uagis.maps.arcgis.com/apps/webappviewer/index.html?id=42151e75171b4c7d8b6feab2ee240e59" target="">
     <img src="../images/bighorn_smoke.png" alt="blah" width="600" height="500">
-  </a>
-* All remotely sensed data (drone, aerial lidar, Planet satellite, classifications) can be found [here](https://datacommons.cyverse.org/browse/iplant/home/shared/bighorn_fire) in Cyverse Data Store. 
+  </a> 
 
-* [Interactive Map](https://uagis.maps.arcgis.com/apps/webappviewer/index.html?id=42151e75171b4c7d8b6feab2ee240e59)
+* [Interactive 2D Map](https://uagis.maps.arcgis.com/apps/webappviewer/index.html?id=42151e75171b4c7d8b6feab2ee240e59)
 
+* [Interactive Drone Point Cloud of Plot C23](https://ps2.d2s.org/sharepotree?file_id=d8bb3869-583c-4f10-b0b0-9bbfafda732e)
+
+* [Interactive Drone Point Cloud of Loma Linda Canyon](https://ps2.d2s.org/sharepotree?file_id=7b76f7e0-42e7-4143-bd9d-a052d11d5878)
+  
 * [Final Report](https://data.cyverse.org/dav-anon/iplant/projects/bighorn_fire/Bighorn_Fire_Imagery/Bighorn_Fire_final_report_ARSC.pdf) to Pima County Regional Flood Control District
+
+* All remotely sensed data (drone, aerial lidar, Planet satellite, classifications) can be found [here](https://datacommons.cyverse.org/browse/iplant/home/shared/bighorn_fire) in Cyverse Data Store.
 
 <br>
 
@@ -78,7 +85,11 @@ ___
 
 ## Santa Cruz River Vegetation Mapping 2022-2023
 
-* Remotely sensed data products from airplane and drone are [here](https://datacommons.cyverse.org/browse/iplant/home/shared/santa_cruz_river)
+* [Interactive Drone Point Cloud (April 2022)](https://ps2.d2s.org/sharepotree?file_id=d6056396-4bde-48ae-a745-f5f131f57405)
+
+* [Interactive 2D Classification Map](https://ps2.d2s.org/sharemap?file_id=f1635a4a-7ed9-4398-a99b-c2abc90766c3&symbology=eyJtYXgiOjE0LCJtaW4iOjgsIm1vZGUiOiJtaW5NYXgiLCJ1c2VyTWF4IjoxNCwidXNlck1pbiI6OCwiY29sb3JSYW1wIjoibWFnbWEiLCJtZWFuU3RkRGV2IjoyLCJvcGFjaXR5IjoxMDB9)
+
+* Remotely sensed data products from airplane and drone are [here](https://datacommons.cyverse.org/browse/iplant/home/shared/santa_cruz_river) in Cyverse Data Store
 
 * [Final Report](https://data.cyverse.org/dav-anon/iplant/projects/santa_cruz_river/SCR_drone_report_Gillan_2022.pdf)
  to Pima County Regional Flood Control District
