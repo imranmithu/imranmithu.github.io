@@ -29,7 +29,9 @@ ___
 
 
 <br>
+
 ___
+
 <br>
 
 # Jemez Residential Fire Risk 2020
@@ -39,7 +41,9 @@ ___
 * [Interactive Fuel Map](https://promethean-gift.github.io/map) showing trees crowns adjacent to residential houses. Featuring drone-based photogrammetry and Aerial LiDAR. 
 
 <br>
+
 ___
+
 <br>
 
 # Paradise Valley Country Club 
@@ -49,19 +53,26 @@ ___
 * Paradise Valley Hole #17 [point cloud](https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834)
 
 <br>
+
 ___
+
 <br>
 
 
 # Bighorn Fire Forest Change 2021-2022
-
+<a href="https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834" target="">
+    <img src="../images/hole_17.png" alt="blah" width="600" height="500">
+  </a>
 * All remotely sensed data (drone, aerial lidar, Planet satellite, classifications) can be found [here](https://datacommons.cyverse.org/browse/iplant/home/shared/bighorn_fire) in Cyverse Data Store. 
 
-* All GIS/RS data can be visualized on a map [here](https://uagis.maps.arcgis.com/apps/webappviewer/index.html?id=42151e75171b4c7d8b6feab2ee240e59)
+* [Interactive Map](https://uagis.maps.arcgis.com/apps/webappviewer/index.html?id=42151e75171b4c7d8b6feab2ee240e59)
 
 * [Final Report](https://data.cyverse.org/dav-anon/iplant/projects/bighorn_fire/Bighorn_Fire_Imagery/Bighorn_Fire_final_report_ARSC.pdf) to Pima County Regional Flood Control District
 
 <br>
+
+___
+
 <br>
 
 ## Santa Cruz River Vegetation Mapping 2022-2023
@@ -72,6 +83,9 @@ ___
  to Pima County Regional Flood Control District
 
 <br>
+
+___
+
 <br>
 
 ## Tyson's House
