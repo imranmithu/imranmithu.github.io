@@ -7,7 +7,7 @@ author_profile: true
 
 # Drone Imagery Archive
 
-View and download my [entire archive](https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12) of collected raw drone imagery (2016-present day) from [Geonadir](https://geonadir.com/).
+View and download my [entire archive](https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12) of collected raw drone imagery hosted in [Geonadir](https://geonadir.com/).
 
 
   <a href="https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12" target="_blank">
@@ -20,7 +20,7 @@ ___
 <br>
 
 # Santa Rita Rangeland Monitoring
-<a href="" target="_blank">
+<a href="" target="">
     <img src="../images/santa_rita_rangeland.png" alt="blah" width="600" height="500">
   </a>
 * Raw drone imagery and imagery products (DEMs, point clouds, orthomosaics) are stored in Cyverse [Data Store](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_Ecosphere_2021)
@@ -31,6 +31,13 @@ ___
 <br>
 <br>
 
+# Jemez Residential Fire Risk 2020
+<a href="" target="">
+    <img src="../images/7_springs.png" alt="blah" width="600" height="500">
+  </a>
+* [Interactive Fuel Map](https://promethean-gift.github.io/map) showing trees crowns adjacent to residential houses. Featuring drone-based photogrammetry and Aerial LiDAR. 
+
+
 # US Golf Association 2023
 
 * Paradise Valley hole #17 [point cloud](https://viewer.copc.io/?state=ee15e0b9ae036865eaada9f398c2d27de94c2cde71bd92cf117156296bf46ab0)
@@ -38,9 +45,7 @@ ___
 <br>
 <br>
 
-# Jemez Residential Fire Risk 2020
 
-* Drone-based [Fuel Map](https://promethean-gift.github.io/map)
 
 <br>
 <br>
