@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeffrey K Gillan, Ph.D."
-  avatar           : gillan_headshot_2023.jpg
-  bio              : "Geospatial Data Scientist & Educator at the University of Arizona"
+  name             : "Imran Hossain Mithu"
+  avatar           :  Profile.jpg
+  bio              : "Doctoral Student in Environmental Health Science at the Mel and Enid Zuckerman College of Public Health, University of Arizona"
   location         : "Tucson, AZ, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Eyu4lt4AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=IWjGhTYAAAAJ&hl=en&authuser=2"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Imran-Mithu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jeffgillan"
+  github           : "imranmithu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jeffrey-kent-gillan"
-  orcid            : "http://orcid.org/0000000207313048"
+  linkedin         : "Imran Hossain Mithu"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8057-3092"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
