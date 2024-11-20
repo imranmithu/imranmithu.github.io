@@ -13,13 +13,13 @@ My research focuses on understanding and addressing the intersections between en
 One of my key projects, led by Dr. Shujuan Li, explores the dual role of urban greenspaces in building resilience to climate change impacts on health. While greenspaces offer significant environmental, social, and health benefits, they also present unintended consequences, such as increased risks of fires, allergens, and vectors of infectious diseases. Our project examines the trade-offs of greenspace composition and morphology, aiming to inform urban planning practices that maximize health benefits while minimizing risks.
 Through this study, we:
 
-#### 1.Evaluate Public Health Trade-offs
+### 1.Evaluate Public Health Trade-offs
 Analyze how different greenspace designs affect heat-related illnesses and mosquito-borne disease risks in urban areas, using Phoenix, AZ, as a case study.
 
-#### 2.Develop a Health Effects Assessment Tool
+### 2.Develop a Health Effects Assessment Tool
 Create a predictive tool leveraging machine learning to evaluate the health impacts of proposed greenspace designs. This tool incorporates data on climate, urban design, and health outcomes and has applications for urban planners to optimize greenspace development.
 
-#### 3. Integrate Research and Community Engagement
+### 3. Integrate Research and Community Engagement
 Facilitate participatory greenspace design activities that co-produce knowledge with community members, eliciting preferences and priorities for resilient urban planning. This integration ensures that our findings are practical and inclusive, addressing inequities in greenspace distribution.
 
 ### Climate Change and Neurodegenerative Disorders
