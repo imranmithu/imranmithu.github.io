@@ -10,6 +10,6 @@ redirect_from:
 
  
 
-<br/><img src='/images/GIF12.gif'>
+<br/><img src='/images/giphy.gif'>
 
 
