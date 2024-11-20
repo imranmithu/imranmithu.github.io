@@ -2,6 +2,7 @@
 title: " Remote community GIS mapping: Lessons from informal settlements in Bangladesh"
 collection: talks
 type: "Talk"
+permalink: /talks/Episode_4
 link: "https://www.lstmed.ac.uk/news-events/media/episode-4-remote-community-gis-mapping-lessons-from-informal-settlements-in"
 venue: "Connecting Citizens to Science"
 date: 2022-02-10
