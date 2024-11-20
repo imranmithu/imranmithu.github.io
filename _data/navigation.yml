@@ -6,12 +6,17 @@ main:
   - title: "CV"
     url: /files/CV_Imran_Mithu.pdf
      
-  - title: "Educational Resources"
-    url: /educational_resources/
+  - title: "Research"
+    url: /research/
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Talks"
+    url: /talks/    
         
-
-  - title: "Maps & Data"
-    url: /mapdata/
-
-  - title: "Geospatial Art"
-    url: /geospatial_art/
+  - title: "Blog"
+    url: /posts/
