@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Imran Hossain Mithu"
-  avatar           :  Profile.jpg
+  avatar           : file.png
   bio              : "Doctoral Student in Environmental Health Science at the Mel and Enid Zuckerman College of Public Health, University of Arizona"
   location         : "Tucson, AZ, USA"
   employer         :
