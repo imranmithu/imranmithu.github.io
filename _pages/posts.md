@@ -8,3 +8,6 @@ author_profile: true
 
 
 [Remote GIS Mapping in Dholpur: Co-production with Co-researchers](https://www.ariseconsortium.org/remote-gis-mapping-in-dholpur-co-production-with-co-researchers/)
+
+
+[Normal or New Normal: Life in Urban Slums Amid the COVID-19 Pandemic](https://www.ariseconsortium.org/normal-or-new-normal-life-in-urban-slums-amid-the-covid-19-pandemic/)
