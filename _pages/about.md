@@ -12,11 +12,11 @@ redirect_from:
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/imranmithu/book-a-meeting', text: 'Schedule a meeting with me!', color: '#53951c', textColor: '#ffffff', branding: undefined }); }</script>
 <!-- Calendly badge widget end -->
-<img style="float: right; padding: 10px 10px 10px 10px;" src="images/giphy.gif" width=400>
+<img style="float: right; padding: 10px 10px 10px 10px;" src="images/climate2.jpg" width=400>
 
 Welcome to my website! I am Imran Hossain Mithu, a passionate researcher currently pursuing a PhD in Environmental Health Science at the Mel and Enid Zuckerman College of Public Health, University of Arizona. My academic journey and professional experiences have been deeply rooted in exploring the intersection of public health, environmental science, and data-driven research. With a master of public health and extensive experience in global health projects, my work spans diverse areas such as environmental epidemiology, one health, risk analysis, and surveillance. My dedication to addressing pressing environmental health challenges, particularly those impacting marginalized communities, drives my research. Through this platform, I aim to share insights from my academic and professional pursuits, connect with fellow researchers, and inspire collaborative solutions for a healthier, more equitable world. Thank you for joining me on this journey toward impactful change.
 
-<img style="float: left; padding: 12px 12px 12px 12px;" src="images/climate_health.jpg" width=600>
+<img style="float: left; padding: 12px 12px 12px 12px;" src="images/climate.png" width=600>
 
 <!-- <iframe style="float: left;" width="350" height="200" src='https://www.pointbox.xyz/clouds/614e042b53917621eadcb06f/embed'></iframe> -->
 
