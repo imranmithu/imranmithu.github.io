@@ -18,7 +18,6 @@ author_profile: true
 ## BRAC-James P. Grant School of Public Health (Spring 2021 & Fall 2021, Teaching Fellow) 
 - Anthropological Approaches to Public Health
 - Health System Management
-- Gender, Sexual and Reproductive Health & Rights
-- Gender program management learning
-- Environmental Health Science and Climate Change
+- Program management learning
+- Environmental Health Science
   
